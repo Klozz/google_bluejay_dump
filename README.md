@@ -1,0 +1,14 @@
+# bluejay-user 13 TQ3A.230901.001 10750268 release-keys
+- manufacturer: google
+- platform: gs101
+- codename: bluejay
+- flavor: bluejay-user
+- release: 13
+- id: TQ3A.230901.001
+- incremental: 10750268
+- tags: release-keys
+- fingerprint: google/bluejay/bluejay:13/TQ3A.230901.001/10750268:user/release-keys
+- is_ab: true
+- brand: google
+- branch: bluejay-user-13-TQ3A.230901.001-10750268-release-keys
+- repo: google_bluejay_dump
