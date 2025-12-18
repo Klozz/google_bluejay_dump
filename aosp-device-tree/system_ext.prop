@@ -1,0 +1,6 @@
+# Miscellaneous
+remote_provisioning.use_cert_processor=false
+ro.camerax.extensions.enabled=true
+ro.config.isolated_compilation_enabled=true
+ro.system_ext.build.version.sdk_full=36.1
+

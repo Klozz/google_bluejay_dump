@@ -1,0 +1,17 @@
+kernel=kernel
+ramdisk=ramdisk
+second=second.img
+page_size=1684107116
+dt=dtb.img
+kernel_size=4
+ramdisk_size=268468224
+second_size=31049957
+dtb_offset=0x00007800
+dtb_size=1902474079
+base_addr=0xffff8800
+kernel_offset=0x00008000
+ramdisk_offset=0x11007800
+tags_offset=0x2e30ac31
+dtbo_offset=
+cmd_line='.load_sequential=1 exynos_drm.load_sequential=1 pcie-exynos-core.load_sequential=1 g2d.load_sequential=1 disable_dma32=on dyndbg="func alloc_contig_dump_pages +p" earlycon=exynos4210,0x10A00000 console=ttySAC0,115200 androidboot.console=ttySAC0 printk.devkmsg=on cma_sysfs.experimental=Y rcupdate.rcu_expedited=1 rcu_nocbs=all rcutree.enable_rcu_lazy swiotlb=noforce cgroup.memory=nokmem rodata=on at24.write_timeout=100 log_buf_len=1024K android_arch_task_struct_size=512 bootconfig'
+board="ial=1 exynos_mfc"

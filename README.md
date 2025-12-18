@@ -1,0 +1,20 @@
+## generic_system_google-user 16 BP4A.251205.006 14401865 release-keys
+- Manufacturer: google
+- Platform: gs101
+- Codename: bluejay
+- Brand: google
+- Flavor: generic_system_google-user
+- Release Version: 16
+- Kernel Version: 6.1.145
+- Id: BP4A.251205.006
+- Incremental: 14401865
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Treble Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: google/bluejay/bluejay:16/BP4A.251205.006/14401865:user/release-keys
+- OTA version: 
+- Branch: generic_system_google-user-16-BP4A.251205.006-14401865-release-keys
+- Repo: google_bluejay_dump
