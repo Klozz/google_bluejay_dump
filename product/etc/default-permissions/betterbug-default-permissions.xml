@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<!--
+   Copyright 2025 Google LLC
+   Proprietary and Confidential
+-->
+
+<exceptions>
+    <!-- Authorizing Betterbug with notification permissions by default. -->
+    <exception package="com.google.android.apps.internal.betterbug">
+        <permission name="android.permission.POST_NOTIFICATIONS" fixed="false"/>
+    </exception>
+</exceptions>
